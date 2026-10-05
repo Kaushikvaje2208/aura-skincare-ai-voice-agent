@@ -1,0 +1,1 @@
+Built a browser-first AI voice customer-support agent using Next.js, browser speech APIs and the OpenAI Responses API. The agent uses explicit Aura Skincare policy guardrails and a function-calling tool for deterministic order lookup, then produces a transcript and structured post-call outcome.
